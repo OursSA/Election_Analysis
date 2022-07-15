@@ -8,12 +8,13 @@ This project was setup in the context of assisting a board of elections member w
 
 ## Results
 ### Election-Audit Results
-By running the script, it was found that:
+By running the script, the following output was produced in the terminal. ![Terminal output](Resources/Terminal_output.png) It was found that:
 -	369,711 total votes were cast in the district.
 -	Jefferson county cast 38,855 votes, comprising 10.5% of the total. Denver county cast 306,055 votes, comprising 82.8% of the total.  Arapahoe county cast 24,801 votes, which accounted for the remaining 6.7% of the total.
 -	Denver County cast the greatest number of votes in this district, with a total of 306,055.
 -	Three candidates received votes in the district. Charles Casper Stockham received 23% of the votes, with a total of 85,213. Diana DeGette had 73.8% of the votes, with a total of 272,892. Raymon Anthony Doane received 3.1% of the vote, with 11,606 votes.
 -	Dina DeGette won the election, with 272,892 total votes. This was 73.8% of the total votes cast.
+
 
 ## Summary
 ### Election-Audit Summary
