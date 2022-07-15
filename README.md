@@ -36,4 +36,4 @@ Additionally, a conditional statement could be included to account for election 
         print (no_winner_summary)
 ```
 
-Running the script on a [hypothetical set in which there was no majority] (resources/no_majority.csv) then produces the following output: ![output if no majority means no winner](resources/no_majority_example.png)
+Running the script on a [hypothetical set in which there was no majority] (resources/no_majority.csv) then produces the following output: ![output if no majority means no winner](Resources/no_majority_example.png)
